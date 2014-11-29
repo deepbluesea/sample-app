@@ -1,4 +1,4 @@
-sample-app
+SnowManIO Sample App
 ==========
 
 Sample application to deploy private instance of SnowManIO.
