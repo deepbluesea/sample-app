@@ -1,1 +1,1 @@
-web: bundle exec snowman -p $PORT
+web: bundle exec snowman server -p $PORT
