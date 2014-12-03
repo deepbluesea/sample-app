@@ -1,1 +1,1 @@
-web: bundle exec snowman -p $PORT
+web: REDIS_URL=$REDISTOGO_URL bundle exec snowman -p $PORT
